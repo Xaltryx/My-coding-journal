@@ -30,6 +30,9 @@ Coding-Journal/
 │  ├─ mbox.txt
 │  └─ String.py
 ├─ Day2/
+│  ├─ Project1-EgyptWeatherParser-improved/
+│  │  ├─ Egypt_Weather_Parser-improved.py
+│  │  └─ Cairo-Weather.csv
 └─ README.md (This file)
 
 ```
