@@ -60,26 +60,6 @@ Projects in this repo are small coding exercises or scripts that reinforce daily
 Example: **Egypt Weather Parser**  
 - Parses a CSV of 25 years of weather in Cairo  
 - Filters days with temperature >30°C  
-- Sorts descending and prints the top 5 hottest days  
-
+- Sorts descending and prints the top 5 hottest days
 ---
-
-## 💡 How to Use This Repo
-
-1. Browse the daily folders to review **your coding progress**  
-2. Check `README.md` files for **project descriptions and reflections**  
-3. Run scripts directly using Python (where applicable)  
-4. Use this journal to **track your learning, growth, and patterns over time**  
-
----
-
-## 🔖 Future Plans
-
-- Add **screenshots of project outputs**  
-- Include **badges for topics learned**  
-- Introduce **collapsible sections** for easier navigation  
-- Track AI projects and freelance tasks  
-
----
-
 > “Consistency is the key to mastery.” 🌱
