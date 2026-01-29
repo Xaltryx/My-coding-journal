@@ -54,7 +54,8 @@ def classify(user_day):
     humid = dth["humidity"]
     temp = dth["temperature"]
     if temp > HOT_TEMP:
-        if month >= 6 and month <= 9: return "Extreme"
+        if month >= 6 and month <= 9 and humid > HUMIDITY_THRESHOLD: return "Extreme Humid Hot"
+        elif month >= 6 and month <= 9: return "Extreme"
         elif humid > HUMIDITY_THRESHOLD: return "Humid Hot"
         else: return "Hot"
     elif temp > WARM_TEMP:return "Warm"
