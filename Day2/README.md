@@ -81,13 +81,13 @@ A Python script that uses **conditionals** to grade student scores.
 
 ## 🧠 Reflection
 
-| Metric | Details                                                                                   |
-|--------|-------------------------------------------------------------------------------------------|
-| Problems / Quizzes Completed | 2 graded quizzes, 6 practice quizzes                                                      |
-| Easiest Tasks | All practice assessments                                                                  |
-| Hardest Tasks | Module 3 assessment, then Module 2 assessment                                             |
-| Energy During Deep Work | Good                                                                                      |
-| One Thing to Improve Tomorrow | Finish more tasks, code more, learn more, start seeing freelancing gigs, do more projects |
+| Metric | Details                                                                                      |
+|--------|----------------------------------------------------------------------------------------------|
+| Problems / Quizzes Completed | 2 graded quizzes, 6 practice quizzes                                                         |
+| Easiest Tasks | All practice assessments                                                                     |
+| Hardest Tasks | Module 3 graded quiz, then Module 2 graded quiz in Python for Data Science, AI & Development |
+| Energy During Deep Work | Good                                                                                         |
+| One Thing to Improve Tomorrow | Finish more tasks, code more, learn more, start seeing freelancing gigs, do more projects    |
 
 ---
 
